@@ -8,7 +8,7 @@ if age.isdigit():
 else:
     print("Please enter a valid number.")
 
-# This program prompts the user for their name and age,
+# This program asks the user for their name and age,
 # then calculates and displays their age in 5 years.
 
 from getpass import getpass
@@ -18,6 +18,6 @@ if password == "Croissant":
     print("Login successful.")
 else:
     print("Login failed.")
-# This program securely prompts the user for a password
+# This program asks the user for a password
 # and checks if it matches the predefined password "Croissant".
-# Terminal freezes up when trying to input password. ???
+
